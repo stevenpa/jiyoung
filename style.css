@@ -58,5 +58,5 @@ img {
 }
 
 .scrollFade--animate {
-	transition: opacity 2s ease-in;
+	transition: opacity 1s ease-in;
 }
